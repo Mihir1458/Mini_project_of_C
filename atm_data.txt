@@ -1,0 +1,16 @@
+3
+1001 1596 Mihir
+4900.00 6
+Account created with Rs. 5000.00
+Deposited: Rs. 50.00
+Withdrawn: Rs. 90.00
+Transferred: Rs. 60.00 to A/C 1003
+PIN changed successfully
+PIN changed successfully
+1002 5678 Smit
+6000.00 1
+Account created with Rs. 6000.00
+1003 123 Nirbhay
+5080.00 2
+Account created with Rs. 5020.00
+Received: Rs. 60.00 from A/C 1001
